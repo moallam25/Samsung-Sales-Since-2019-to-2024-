@@ -1,5 +1,4 @@
 # Samsung-Sales-Since-2019-to-2024-
-This project features an interactive Power BI dashboard analyzing Samsung’s global 5G sales performance from 2019 to 2024, with a focus on key business and market metrics.
 Samsung 5G Sales Dashboard | Power BI Project
 This repository contains an interactive Power BI dashboard analyzing Samsung’s global 5G sales performance from 2019 to 2024. The report covers key business and market metrics, product models, and insights to support strategic decision-making.
 
