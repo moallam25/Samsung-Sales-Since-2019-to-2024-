@@ -1,8 +1,8 @@
 # Samsung-Sales-Since-2019-to-2024-
-Samsung 5G Sales Dashboard | Power BI Project
+# Samsung 5G Sales Dashboard | Power BI Project
 This repository contains an interactive Power BI dashboard analyzing Samsung’s global 5G sales performance from 2019 to 2024. The report covers key business and market metrics, product models, and insights to support strategic decision-making.
 
-📊 Dashboard Highlights
+# 📊 Dashboard Highlights
 Total Sales & Revenue: Displays overall max revenue by year and quarter.
 
 Market Share & Unit Sales: Breaks down by region and product.
@@ -15,7 +15,7 @@ KPI Cards: Quick view of essential metrics (sales, units sold, market share, avg
 
 Interactive Filters: Slicers for year, quarter, region, and 5G capability.
 
-💡 Key Insights
+# 💡 Key Insights
 The highest revenue was achieved in 2021, followed by a rebound in 2024, demonstrating strong market resilience and opportunities for growth.
 
 5G models—especially Galaxy S23 5G and Z Flip3 5G—generate the largest revenues, showing customer preference for advanced technology.
@@ -26,7 +26,7 @@ Regions with higher average 5G speeds tend to see better sales performance, sugg
 
 Market share is distributed globally, but there are underperforming areas that could be targeted for future expansion.
 
-📈 How to Increase Profitability
+# 📈 How to Increase Profitability
 Focus marketing and product launches in regions with lower market share but strong potential (Asia-Pacific, Europe).
 
 Invest in improving network speed and coverage where sales are weaker.
@@ -39,14 +39,14 @@ Introduce customer loyalty programs and upgrade incentives to retain existing us
 
 Continue innovating and adapting to new technology trends to maintain a competitive edge.
 
-🚀 How to Use
+# 🚀 How to Use
 Download the .pbix file and open it with Power BI Desktop.
 
 Use slicers and filters to explore the dashboard by year, quarter, region, and product.
 
 Analyze detailed insights to inform strategic business actions.
 
-🛠️ Skills & Tools Used
+# 🛠️ Skills & Tools Used
 Power BI (Data Modeling, Visualization, DAX)
 
 Dashboard & KPI design
